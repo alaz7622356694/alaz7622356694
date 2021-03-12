@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alireza
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning front-end components such as SCSS , React.js and typeScript
+- 👀 I’m interested in Front-end web development 
+- 🌱 I’m currently learning CSS and JS frameworks such as SCSS , React.js and typeScript
 - 💞️ I’m looking to collaborate on different projects concerning front-end development
 - 📫 You can contact me via Email : alireza.azari2235@outlook.com
 

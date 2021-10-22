@@ -6,6 +6,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=alaz7622356694&show_icons=true&theme=radical"/>
 
+List of mini-projects I have done so far :
+
+<strong>This mini project has been done with React.js https://alaz7622356694.github.io/ExpenseTracker/</>
+
 
 
 
